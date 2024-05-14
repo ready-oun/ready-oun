@@ -31,7 +31,7 @@
   ---
   
   
-  ### My Workspace
+  <h3>$\{🍎\ My\ Workspace\}$</h3>
   <a href=""><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/></a>
@@ -40,7 +40,7 @@
   <a href=""><img src="https://img.shields.io/badge/Apple-MacBook_M1_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"/></a>
   
   
-  ### Back-end Stack
+  <h3>$\{💻\ Back-end\ Stack\}$</h3>
   <a href=""><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
@@ -49,19 +49,20 @@
   <a href=""><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a> <br>
   
   
-  ### Front-end Stack
+  <h3>$\{🖥️\ Front-end\ Stack\}$</h3>
   <a href=""><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
   
-  ### Cowork Tools
+  <h3>$\{🤲\ Cowork\ Tools\}$</h3>
   <a href=""><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-
+  <br>
+  
 </div>
 <!--footer-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:8871e5,100:b678c4&stroke=b678c4&height=90&section=footer" />
 
