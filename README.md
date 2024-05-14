@@ -24,7 +24,7 @@
   <br>
   <br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ready-oun&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&prog_bg_color=222222)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ready-oun&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&prog_bg_color=222222)
   
   ![Ready-oun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ready-oun&show_icons=true&theme=transparent)
   
