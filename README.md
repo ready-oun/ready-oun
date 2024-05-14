@@ -1,25 +1,20 @@
-### Hi there 👋
-
 <!--header 
 <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 -->
-
 <div align="center">
+  
+  ## Hi there 👋
+  
   <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+    <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   </picture>
-  <br>
+  
+
+
   🌱 I’m currently learning Java, Spring and AWS <br>
   📫 How to reach me: heeyn.lim@gmail.com <br>
-  ⚡ Fun fact: **Keychron keyboard, Obsidian Warp terminal and Arc Browser** will change your life.
+  ⚡ Fun fact: Keychron keyboard, Obsidian Warp terminal and Arc Browser will change your life.
   <br>
   <br>
   <br>
@@ -34,8 +29,9 @@
   ### My Workspace
   <a href=""><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Apple-MacBook_M1_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"/></a>
   
   
