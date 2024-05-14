@@ -1,6 +1,6 @@
-<!--header 
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
--->
+<!--header--> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header" />
+
 <div align="center">
   
   $\{Hi\ there\ 👋\}$ 
@@ -23,9 +23,9 @@
   <br>
   <br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ready-oun)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ready-oun&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&prog_bg_color=222222)
   
-  ![Ready-oun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ready-oun&show_icons=true&theme=dark)
+  ![Ready-oun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ready-oun&show_icons=true&theme=transparent)
   
   ---
   
@@ -61,6 +61,6 @@
   <a href=""><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 </div>
-<!--footer
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
--->
+<!--footer-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+
