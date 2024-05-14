@@ -6,20 +6,44 @@
 
 - 🌱 I’m currently learning Java, Spring and AWS
 - 📫 How to reach me: heeyn.lim@gmail.com
-- ⚡ Fun fact: just got Keychron K10 !!!!!
+- ⚡ Fun fact: Keychron keyboard, Warp terminal and Arc Browser will change your life.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ready-oun)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ready-oun)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href=""><img src="https://img.shields.io/badge/3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/232F3E?style=flat-square&logo=AWS&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+"/></a>
+<a href=""><img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white
+"/></a>
+<a href=""><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white
+"/></a>
+<a href=""><img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white
+"/></a>
+
+---
+
+<a href=""><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+"/></a>
+<a href=""><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+"/></a>
+<a href=""><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+"/></a>
+<a href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+"/></a>
+<a href=""><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+"/></a>
+<a href=""><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+"/></a>
+<a href=""><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+"/></a>
+<a href=""><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+"/></a>
+<a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white
+"/></a>
+<a href=""><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+"/></a>
 
 <!--footer
 <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
