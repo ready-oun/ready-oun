@@ -36,7 +36,7 @@
   <a href=""><img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Apple-MacBook_M1_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"/></a>
   
   
   ### Back-end Stack
