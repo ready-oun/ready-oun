@@ -3,7 +3,7 @@
 -->
 <div align="center">
   
-  ## Hi there 👋
+  $\{Hi\ there\ 👋\}$ 
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
@@ -12,9 +12,13 @@
   
 
 
-  🌱 I’m currently learning Java, Spring and AWS <br>
-  📫 How to reach me: heeyn.lim@gmail.com <br>
-  ⚡ Fun fact: Keychron keyboard, Obsidian Warp terminal and Arc Browser will change your life.
+  <p>$\rm{🌱\ I’m\ currently\ learning\ Java,\ Spring\ and\ AWS}$</p> 
+  <p>$\rm{📫\ How\ to\ reach\ me:\ heeyn.lim@gmail.com}$</p>
+  <br>
+  <p>$\oldstyle{⚡ Fun\ fact:}$</p>
+  <p>$\bf{Keychron\ keyboard,\ Warp\ terminal\ and\ Arc\ Browser}$</p>
+  <p>$\oldstyle{will\ change\ your\ life.}$</p>
+  
   <br>
   <br>
   <br>
