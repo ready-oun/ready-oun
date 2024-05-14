@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Java, Spring and AWS
 - 📫 How to reach me: heeyn.lim@gmail.com
-- ⚡ Fun fact: Keychron keyboard, Warp terminal and Arc Browser will change your life.
+- ⚡ Fun fact: **Keychron keyboard, Warp terminal and Arc Browser** will change your life.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ready-oun)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -26,7 +26,8 @@
 <a href=""><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a> <br>
+
 <a href=""><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
