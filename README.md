@@ -1,7 +1,7 @@
+<div align="center">
 <!--header--> 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8871e5,100:b678c4&stroke=b678c4&height=300&section=header&text=Heeyoun%20Lim&fontSize=70" />
 
-<div align="center">
   
   <h1>$\{Hi\ there\ 👋\}$</h1>
     <p>$\rm{🌱\ I’m\ currently\ learning\ Java,\ Spring\ and\ AWS}$</p> 
