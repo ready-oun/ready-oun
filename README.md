@@ -1,4 +1,7 @@
 <div align="center">
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fready-oun)](https://hits.seeyoufarm.com) 
+
 <!--header--> 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8871e5,100:b678c4&stroke=b678c4&height=300&section=header&text=Heeyoun%20Lim&fontSize=70" />
 
@@ -6,12 +9,13 @@
   <h1>$\{Hi\ there\ 👋\}$</h1>
     <p>$\rm{🌱\ I’m\ currently\ learning\ Java,\ Spring\ and\ AWS}$</p> 
     <p>$\rm{📫\ How\ to\ reach\ me:\ heeyn.lim@gmail.com}$</p>
-    
+
+<!-- hide picture    
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
     <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   </picture>
-  
+-->
 
 
 
@@ -24,8 +28,7 @@
   <br>
   <br>
   
-<!-- updated -->
-
+<!-- updated stats and langs -->
 <p align="center">
   <!-- GitHub Stats -->
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ready-oun&show_icons=true&bg_color=00000000"/>
