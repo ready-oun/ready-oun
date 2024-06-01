@@ -24,10 +24,17 @@
   <br>
   <br>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ready-oun&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&prog_bg_color=222222)
+  <p align="center">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ready-oun&show_icons=true&include_all_commits=true&count_private=true&title_color=7da1ee&text_color=7da1ee&bg_color=00000000#gh-dark-mode-only"/>
+
   
-  ![Ready-oun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ready-oun&show_icons=true&theme=transparent)
-  
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ready-oun&layout=compact&langs_count=15&card_width=320&title_color=7da1ee&text_color=7da1ee&bg_color=00000000&exclude_repo=yyysolhhh.github.io,github-slideshow,productive-box#gh-dark-mode-only"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ready-oun&theme=tokyo-night&title_color=7da1ee&color=7da1ee&bg_color=00000000&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo#gh-dark-mode-only" width="95%" alt="activity graph">
+</p>
+
   ---
   
   
@@ -70,3 +77,9 @@
 <!--footer-->
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:8871e5,100:b678c4&stroke=b678c4&height=90&section=footer" />
 </div>
+
+<!--
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ready-oun&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&prog_bg_color=222222)
+  
+  ![Ready-oun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ready-oun&show_icons=true&theme=transparent)
+-->
