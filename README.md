@@ -25,16 +25,20 @@
   <br>
   
 <!-- updated -->
+
 <p align="center">
+  <!-- GitHub Stats -->
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ready-oun&show_icons=true&include_all_commits=true&count_private=true&title_color=7da1ee&text_color=7da1ee&bg_color=00000000#gh-dark-mode-only"/>
-  
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ready-oun&layout=compact&langs_count=15&card_width=320&title_color=7da1ee&text_color=7da1ee&bg_color=00000000&cache_seconds=1800&hide=Jupyter%20Notebook"/>
+
+  <!-- Top Langs -->
+  <a href="https://github.com/ready-oun/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ready-oun&hide=Jupyter%20Notebook&layout=compact&langs_count=15&card_width=320&title_color=7da1ee&text_color=7da1ee&bg_color=00000000&hide_border=false"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ready-oun&theme=tokyo-night&title_color=7da1ee&color=7da1ee&bg_color=00000000&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo#gh-dark-mode-only" width="95%" alt="activity graph">
-</p>
-
+<!-- original 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ready-oun&hide=Jupyter%20Notebook)](https://github.com/ready-oun/github-readme-stats)
+-->
 
   ---
   
