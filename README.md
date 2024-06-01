@@ -7,7 +7,7 @@
 
   
   <h1>$\{Hi\ there\ 👋\}$</h1>
-    <p>$\rm{🌱\ I’m\ currently\ learning\ Java,\ Spring\ and\ AWS}$</p> 
+    <p>$\rm{🌱\ I’m\ currently\ learning\ Java\ OOP}$</p> 
     <p>$\rm{📫\ How\ to\ reach\ me:\ heeyn.lim@gmail.com}$</p>
 
 <!-- hide picture    
@@ -27,6 +27,9 @@
   <br>
   <br>
   <br>
+
+  <!-- GitAnimals -->
+  [![gitanimals](https://render.gitanimals.org/farms/ready-oun)](https://github.com/devxb/gitanimals)
   
 <!-- updated stats and langs -->
 <p align="center">
