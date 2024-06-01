@@ -113,7 +113,14 @@
   <br>
   
 <!--footer-->
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:8871e5,100:b678c4&stroke=b678c4&height=90&section=footer" />
+  <br>
+  <p style="font-family: 'Courier New', monospace;">
+    If you have any queries or just wanna say hi, 
+    <br>MAIL ME
+    <br>
+  <a href="mailto:heeyn.lim@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a></p>
 </div>
 
 
