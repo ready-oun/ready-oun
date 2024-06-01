@@ -28,7 +28,7 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ready-oun&show_icons=true&include_all_commits=true&count_private=true&title_color=7da1ee&text_color=7da1ee&bg_color=00000000#gh-dark-mode-only"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ready-oun&show_icons=true&bg_color=00000000"/>
 
   <!-- Top Langs -->
   <a href="https://github.com/ready-oun/github-readme-stats">
@@ -38,8 +38,13 @@
 
 <!-- original 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ready-oun&hide=Jupyter%20Notebook)](https://github.com/ready-oun/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ready-oun&show_icons=true&bg_color=00000000)
 -->
 
+  <br>
+  <br>
+  <br>
+  
   ---
   
   
