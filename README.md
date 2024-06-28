@@ -54,6 +54,15 @@
   </a>
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/ready-oun/ready-oun/output/github-contribution-grid-snake-dark.svg)
+
+
+<picture>  
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ready-oun/ready-oun/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ready-oun/ready-oun/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/<github_user>/<repository>/output/github-snake.svg" />
+</picture>
+
 <!-- default stats and top langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ready-oun&hide=Jupyter%20Notebook)](https://github.com/ready-oun/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ready-oun&show_icons=true&bg_color=00000000)
@@ -118,7 +127,8 @@
   <br>
   <br>
   <br>
-  
+
+
 <!--footer-->
   <br>
   <p style="font-family: 'Courier New', monospace;">
