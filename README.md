@@ -7,7 +7,7 @@
 
   
   <h1>$\{Hi\ there\ 👋\}$</h1>
-    <p>$\rm{🌱\ I’m\ currently\ learning\ Java\ OOP}$</p> 
+    <p>$\rm{🌱\ I’m\ currently\ learning\ JPA}$</p> 
     <p>$\rm{📫\ How\ to\ reach\ me:\ heeyn.lim@gmail.com}$</p>
 
 <!-- hide picture    
@@ -24,11 +24,6 @@
   <p>$\oldstyle{If\ you're\ too\ tired\ to\ work\ out,}$ <br>
   $\oldstyle{go\ get\ a\ massage.}$ <br> 
   $\oldstyle{It\ really\ works!}$</p>
-
-<!--  Fun fact Archives
-  <p>$\bf{Keychron\ keyboard,\ Warp\ terminal\ and\ Arc\ Browser}$</p>
-  <p>$\oldstyle{will\ change\ your\ life.}$</p> 
--->
   
 
   
