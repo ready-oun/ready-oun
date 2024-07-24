@@ -21,9 +21,7 @@
 <!-- My favorite part: Fun fact Updates -->
   <br>
   <p>$\oldstyle{⚡ Fun\ fact:}$</p>
-  <p>$\oldstyle{If\ you're\ too\ tired\ to\ work\ out,}$ <br>
-  $\oldstyle{go\ get\ a\ massage.}$ <br> 
-  $\oldstyle{It\ really\ works!}$</p>
+  <p>$\oldstyle{Now\ I'm\ broke.}$</p>
   
 
   
