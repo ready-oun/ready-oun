@@ -7,7 +7,7 @@
 
   
   <h1>$\{Hi\ there\ 👋\}$</h1>
-    <p>$\rm{🌱\ I’m\ currently\ learning\ JPA}$</p> 
+    <p>$\rm{🌱\ Now\ I\ am\ free}$</p> 
     <p>$\rm{📫\ How\ to\ reach\ me:\ heeyn.lim@gmail.com}$</p>
 
 <!-- hide picture    
