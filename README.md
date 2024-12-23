@@ -21,7 +21,7 @@
 <!-- My favorite part: Fun fact Updates -->
   <br>
   <p>$\oldstyle{⚡ Fun\ fact:}$</p>
-  <p>$\oldstyle{Now\ I'm\ broke.}$</p>
+  <p>$\oldstyle{gotta\ work\ out}$</p>
   
 
   
