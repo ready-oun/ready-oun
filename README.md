@@ -39,7 +39,7 @@
 <!-- updated stats and langs -->
 <p align="center">
   <!-- GitHub Stats -->
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ready-oun&show_icons=true&bg_color=00000000"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ready-oun&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000"/>
 
   <!-- Top Langs -->
   <a href="https://github.com/ready-oun/github-readme-stats">
@@ -56,11 +56,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ready-oun/ready-oun/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/<github_user>/<repository>/output/github-snake.svg" />
 </picture>
--->
-
-<!-- default stats and top langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ready-oun&hide=Jupyter%20Notebook)](https://github.com/ready-oun/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ready-oun&show_icons=true&bg_color=00000000)
 -->
 
   <br>
@@ -93,11 +88,8 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <!--  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/>
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-    -->
+   
   
   <br>
   
@@ -107,9 +99,8 @@
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-    <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-    -->
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+   
 
   
   <h3>$\{🤲\ Cowork\ Tools\}$</h3>
