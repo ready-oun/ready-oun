@@ -36,7 +36,7 @@
   <!-- GitAnimals -->
   [![gitanimals](https://render.gitanimals.org/farms/ready-oun)](https://github.com/devxb/gitanimals)
   
-<!-- updated stats and langs -->
+<!-- stats and langs -->
 <p align="center">
   <!-- GitHub Stats -->
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ready-oun&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000"/>
@@ -64,28 +64,12 @@
   
   ---
   
-  
-  <h3>$\{🍎\ My\ Workspace\}$</h3>
-    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
-    <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-
-    <br>  
-<!--     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> -->
-    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<!--     <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/> -->
-<!--     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/> -->
-    <br>
-<!--     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/> -->
-<!--     <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"/> -->
-  
-  <h3>$\{💻\ Back-end\ Stack\}$</h3>
+  <h3>$\{💻\ Server\}$</h3>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <br>
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 
@@ -95,7 +79,7 @@
 
   <br>
   
-  <h3>$\{🖥️\ Front-end\ Stack\}$</h3>
+  <h3>$\{🖥️\ Client\}$</h3>
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
