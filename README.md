@@ -10,7 +10,7 @@
   <p>📫 How to reach me: <a href="mailto:heeyn.lim@gmail.com">heeyn.lim@gmail.com</a></p>
 
   <!-- YouTube link -->
-  <p>Here's a piece I just can't stop listening to: 
+  <p>🎵 Can't get enough of this piece for years: 
     <br>
     <a href="https://youtu.be/skgCvgMb8gY?si=LlBGLbant4Gxr5Zd" target="_blank">Alexander Tsfasman - Suite for Piano and Orchestra</a>
   </p>
@@ -18,20 +18,12 @@
   <p>
     Curious about my journey?  
     <br>
-    <a href="https://readyoun.tistory.com/" target="_blank">Visit my blog to learn more!</a>
+    <a href="https://readyoun.tistory.com/" target="_blank">Visit my blog to learn more!✨</a>
   </p>
-  
-<!-- hide picture    
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-    <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  </picture>
--->
 
-<!-- additional Repo pinned cards
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ready-oun&repo=oz_team_project_red_ribbon)](https://github.com/ready-oun/oz_team_project_red_ribbon)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ready-oun&repo=oz_main_Cookbap)](https://github.com/ready-oun/oz_main_Cookbap)
--->
+<br>
+<br>
+
   <!-- GitAnimals -->
   [![gitanimals](https://render.gitanimals.org/farms/ready-oun)](https://github.com/devxb/gitanimals)
   
