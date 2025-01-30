@@ -5,29 +5,28 @@
 <!--header--> 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8871e5,100:b678c4&stroke=b678c4&height=300&section=header&text=Heeyoun%20Lim&fontSize=70" />
 
-  
-  <h1>$\{Hi\ there\ 👋\}$</h1>
-    <p>$\rm{🌱\ Now\ I\ am\ free}$</p> 
-    <p>$\rm{📫\ How\ to\ reach\ me:\ heeyn.lim@gmail.com}$</p>
+  <h1>Hi there 👋</h1>
+  <p>🌱 Open to Work</p>
+  <p>📫 How to reach me: <a href="mailto:heeyn.lim@gmail.com">heeyn.lim@gmail.com</a></p>
 
+  <!-- YouTube link -->
+  <p>Here's a piece I just can't stop listening to: 
+    <br>
+    <a href="https://youtu.be/skgCvgMb8gY?si=LlBGLbant4Gxr5Zd" target="_blank">Alexander Tsfasman - Suite for Piano and Orchestra</a>
+  </p>
+
+  <p>
+    Curious about my journey?  
+    <br>
+    <a href="https://readyoun.tistory.com/" target="_blank">Visit my blog to learn more!</a>
+  </p>
+  
 <!-- hide picture    
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
     <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   </picture>
 -->
-
-
-<!-- My favorite part: Fun fact Updates -->
-  <br>
-  <p>$\oldstyle{⚡ Fun\ fact:}$</p>
-  <p>$\oldstyle{gotta\ work\ out}$</p>
-  
-
-  
-  <br>
-  <br>
-  <br>
 
 <!-- additional Repo pinned cards
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ready-oun&repo=oz_team_project_red_ribbon)](https://github.com/ready-oun/oz_team_project_red_ribbon)
