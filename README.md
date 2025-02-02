@@ -10,7 +10,7 @@
   <p>📫 How to reach me: <a href="mailto:heeyn.lim@gmail.com">heeyn.lim@gmail.com</a></p>
 
   <!-- YouTube link -->
-  <p>🎵 Can't get enough of this piece for years: 
+  <p>🎵 This masterpiece never gets old: 
     <br>
     <a href="https://youtu.be/skgCvgMb8gY?si=LlBGLbant4Gxr5Zd" target="_blank">Alexander Tsfasman - Suite for Piano and Orchestra</a>
   </p>
