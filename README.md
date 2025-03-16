@@ -10,9 +10,12 @@
   <p>📫 How to reach me: <a href="mailto:heeyn.lim@gmail.com">heeyn.lim@gmail.com</a></p>
 
   <!-- YouTube link -->
-  <p>🎵 This masterpiece never gets old: 
+  <p>🎵 Drop everything and listen to this – your overworked brain will thank you:
     <br>
-    <a href="https://youtu.be/skgCvgMb8gY?si=LlBGLbant4Gxr5Zd" target="_blank">Alexander Tsfasman - Suite for Piano and Orchestra</a>
+    <br>
+    <a href="https://youtu.be/rtKNkm8DevU?si=TJjRH3qpRtBt1oMx" target="_blank">⇆ㅤㅤㅤㅤㅤ ◁ㅤㅤ❚❚ㅤㅤ▷ ㅤㅤㅤㅤㅤ↻ </a>
+    <br>
+    
   </p>
 
   <p>
