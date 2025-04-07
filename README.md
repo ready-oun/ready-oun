@@ -1,3 +1,4 @@
+<!-- Replacing all badge sections with minimal Shields.io style -->
 <div align="center">
   
 <!--header--> 
@@ -5,26 +6,20 @@
 
   <h1>Hi there 👋</h1>
   <p>🌱 Open to Work</p>
-  <p>📫 How to reach me: <a href="mailto:heeyn.lim@gmail.com">heeyn.lim@gmail.com</a></p>
+  <p>📢 How to reach me: <a href="mailto:heeyn.lim@gmail.com">heeyn.lim@gmail.com</a></p>
 
-  <!-- YouTube link -->
-  <p>🎵 Drop everything and listen to this – your overworked brain will thank you:
-    <br>
-    <br>
-    <a href="https://youtu.be/rtKNkm8DevU?si=TJjRH3qpRtBt1oMx" target="_blank">⇆ㅤㅤㅤㅤㅤ ◁ㅤㅤ❚❚ㅤㅤ▷ ㅤㅤㅤㅤㅤ↻ </a>
-    <br>
-    
+  <p>
+    🎵 Drop everything and listen to this – your overworked brain will thank you:<br><br>
+    <a href="https://youtu.be/rtKNkm8DevU?si=TJjRH3qpRtBt1oMx" target="_blank">⇆ㅤㅤㅤㅤㅤ ◁   ❚❚   ▷      ↻ </a>
   </p>
 
   <p>
-    Curious about my journey?  
-    <br>
+    Curious about my journey?  <br>
     <a href="https://readyoun.tistory.com/" target="_blank">Visit my blog to learn more!✨</a>
   </p>
 
-<br>
-<br>
-  
+  <br><br>
+
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ready-oun&utm_content=line">
     <img
       src="https://render.gitanimals.org/lines/ready-oun?pet-id=590190006847078311"
@@ -32,81 +27,39 @@
       height="120"
     />
   </a>
+
+  <br><br>
+  <hr>
   
-  
-<!-- stats and langs -->
-<p align="center">
-  <!-- GitHub Stats -->
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ready-oun&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000"/>
+  <!-- Minimal Shields.io Badges -->
+  <h4>💻 Server</h4>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 
-  <!-- Top Langs -->
-  <a href="https://github.com/ready-oun/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ready-oun&hide=Jupyter%20Notebook&count_private=true&layout=compact&langs_count=15&card_width=320&title_color=7da1ee&text_color=7da1ee&bg_color=00000000&hide_border=false"/>
-  </a>
-</p>
+  <h4>🖥️ Client</h4>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-BF8BD7?style=flat&logo=bootstrap&logoColor=white" />
 
-<!-- Snake Animation of Contributions
-![Snake animation](https://raw.githubusercontent.com/ready-oun/ready-oun/output/github-contribution-grid-snake-dark.svg)
+  <h4>🫲 Cowork Tools</h4>
+  <!-- Cowork Tools 아이콘-only 정렬 -->
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="26" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="26" title="Slack" />
+  <img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="26" title="Discord"/>
+  <img src="https://img.icons8.com/color/48/000000/zoom.png" width="26" title="Zoom" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="26" title="Notion" />
+  <br><br><br><br>
 
-
-<picture>  
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ready-oun/ready-oun/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ready-oun/ready-oun/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/<github_user>/<repository>/output/github-snake.svg" />
-</picture>
--->
-
-  <br>
-  <br>
-  <br>
-  
-  ---
-  
-  <h3>$\{💻\ Server\}$</h3>
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
-    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <br>
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-
-<!--     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> -->
-<!--     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> -->
-<!--     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> -->
-
-  <br>
-  
-  <h3>$\{🖥️\ Client\}$</h3>
-    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<!--     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> -->
-
-  
-  <h3>$\{🤲\ Cowork\ Tools\}$</h3>
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <br>
-  <br>
-  <br>
-  <br>
-
-
-<!--footer-->
-  <br>
+  <!--footer-->
   <p style="font-family: 'Courier New', monospace;">
-    If you have any queries or just wanna say hi, 
-    <br>MAIL ME
-    <br>
-  <a href="mailto:heeyn.lim@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a></p>
+    If you have any queries or just wanna say hi,<br>
+    MAIL ME<br>
+    <a href="mailto:heeyn.lim@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 </div>
-
-
-
