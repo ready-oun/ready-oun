@@ -24,9 +24,15 @@
 
 <br>
 <br>
-
-  <!-- GitAnimals -->
-  [![gitanimals](https://render.gitanimals.org/farms/ready-oun)](https://github.com/devxb/gitanimals)
+  
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ready-oun&utm_content=line">
+    <img
+      src="https://render.gitanimals.org/lines/ready-oun?pet-id=590190006847078311"
+      width="600"
+      height="120"
+    />
+  </a>
+  
   
 <!-- stats and langs -->
 <p align="center">
